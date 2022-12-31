@@ -1,2 +1,2 @@
 # Bank-Account-Management-Software
-Software written in C++ creates, edits, tracks, your bank account information, checking and savings information, and personal information. Simple to compile and run.
+This program is written in C++ it creates, edits, tracks, your bank account information, checking and savings information, and personal information, and so much more. Simple to compile and run. 
